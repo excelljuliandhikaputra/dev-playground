@@ -1,6 +1,6 @@
 """
-Topic 01 - print() Exercises (UNSOLVED)
-Topik 01 - Latihan print() (BELUM DIKERJAKAN)
+Topic 01 - print() Exercises (SOLVED)
+Topik 01 - Latihan print() (SUDAH DIKERJAKAN)
 ================================================
 EN - How to use:
     1. Under each exercise, write your own print() code.
