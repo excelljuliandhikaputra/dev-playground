@@ -46,12 +46,12 @@ Each topic has three parts:
 | 01 | [print()](python/01-print) | `print()`, `sep`, `end`, `\n`, `\t` | ✅ |
 | 02 | [Variables & Data Types](python/02-variables-and-data-types) | variables, types, operators, f-strings, casting | ✅ |
 | 03 | [Data Structures](python/03-data-structures) | list, tuple, dictionary, set | ✅ |
-| 04 | [Conditionals](python/04-conditionals) | `if` / `elif` / `else`, `and` / `or` / `not` | 📘 |
-| 05 | [Loops](python/05-loops) | `for`, `while`, `range()`, `break`, `continue` | 📘 |
-| 06 | [Functions](python/06-functions) | `def`, `return`, parameters, scope | 📘 |
-| 07 | [Strings](python/07-strings) | string methods, formatting, alignment | 📘 |
-| 08 | [Error Handling](python/08-error-handling) | `try` / `except` / `finally`, `raise` | 📘 |
-| 09 | [File Handling](python/09-file-handling) | reading & writing `.txt` and `.csv` | 📘 |
+| 04 | [Conditionals](python/04-conditionals) | `if` / `elif` / `else`, `and` / `or` / `not` | ✅ |
+| 05 | [Loops](python/05-loops) | `for`, `while`, `range()`, `break`, `continue` | ✅ |
+| 06 | [Functions](python/06-functions) | `def`, `return`, parameters, scope | ✅ |
+| 07 | [Strings](python/07-strings) | string methods, formatting, alignment | ✅ |
+| 08 | [Error Handling](python/08-error-handling) | `try` / `except` / `finally`, `raise` | ✅ |
+| 09 | [File Handling](python/09-file-handling) | reading & writing `.txt` and `.csv` | ✅ |
 | 10 | [OOP](python/10-oop) | classes, objects, inheritance | 📘 |
 | 11 | [Mini Project: Student Grade Manager](python/11-mini-project) | everything above, combined | 📘 |
 
@@ -60,13 +60,13 @@ Each topic has three parts:
 | # | Topic | What I learn | Status |
 |:-:|-------|--------------|:------:|
 | 01 | [Output](java/01-output) | `println`, `print`, escape characters | ✅ |
-| 02 | [Variables & Data Types](java/02-variables-and-data-types) | typed variables, casting, `printf` | 🟡 |
-| 03 | [Input & Math](java/03-input-and-math) | `Scanner`, `Math`, `+=`, `++` | 📘 |
-| 04 | [Conditionals](java/04-conditionals) | `if` / `else`, `switch`, `.equals()` | 📘 |
-| 05 | [Loops](java/05-loops) | `for`, `while`, `do-while` | 📘 |
-| 06 | [Arrays & ArrayList](java/06-arrays-and-arraylist) | arrays, 2D arrays, `ArrayList` | 📘 |
-| 07 | [Methods](java/07-methods) | `static` methods, `return`, overloading | 📘 |
-| 08 | [Strings](java/08-strings) | `substring`, `split`, `StringBuilder` | 📘 |
+| 02 | [Variables & Data Types](java/02-variables-and-data-types) | typed variables, casting, `printf` | ✅ |
+| 03 | [Input & Math](java/03-input-and-math) | `Scanner`, `Math`, `+=`, `++` | ✅ |
+| 04 | [Conditionals](java/04-conditionals) | `if` / `else`, `switch`, `.equals()` | ✅ |
+| 05 | [Loops](java/05-loops) | `for`, `while`, `do-while` | ✅ |
+| 06 | [Arrays & ArrayList](java/06-arrays-and-arraylist) | arrays, 2D arrays, `ArrayList` | ✅ |
+| 07 | [Methods](java/07-methods) | `static` methods, `return`, overloading | ✅ |
+| 08 | [Strings](java/08-strings) | `substring`, `split`, `StringBuilder` | ✅ |
 | 09 | [Classes & Objects](java/09-oop-basics) | fields, constructors, `this`, `toString()` | 📘 |
 | 10 | [OOP Advanced](java/10-oop-advanced) | encapsulation, inheritance, polymorphism, interfaces | 📘 |
 | 11 | [Mini Project: Student Grade Manager](java/11-mini-project) | everything above, combined | 📘 |
