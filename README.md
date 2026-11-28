@@ -7,7 +7,7 @@ Every lesson, exercise, and mistake along the way, all in one place.
 
 [![Python](https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://adoptium.net/)
-[![Modules Completed](https://img.shields.io/badge/Modules_Completed-4%2F22-2ea44f?style=for-the-badge)](#-progress)
+[![Modules Completed](https://img.shields.io/badge/Modules_Completed-18%2F22-2ea44f?style=for-the-badge)](#-progress)
 [![Last Commit](https://img.shields.io/github/last-commit/excelljuliandhikaputra/dev-playground?style=for-the-badge&color=orange)](https://github.com/excelljuliandhikaputra/dev-playground/commits/main)
 
 *"Every expert was once a beginner."*
@@ -52,7 +52,7 @@ Each topic has three parts:
 | 07 | [Strings](python/07-strings) | string methods, formatting, alignment | ✅ |
 | 08 | [Error Handling](python/08-error-handling) | `try` / `except` / `finally`, `raise` | ✅ |
 | 09 | [File Handling](python/09-file-handling) | reading & writing `.txt` and `.csv` | ✅ |
-| 10 | [OOP](python/10-oop) | classes, objects, inheritance | 📘 |
+| 10 | [OOP](python/10-oop) | classes, objects, inheritance | ✅ |
 | 11 | [Mini Project: Student Grade Manager](python/11-mini-project) | everything above, combined | 📘 |
 
 ### ☕ Java
@@ -67,7 +67,7 @@ Each topic has three parts:
 | 06 | [Arrays & ArrayList](java/06-arrays-and-arraylist) | arrays, 2D arrays, `ArrayList` | ✅ |
 | 07 | [Methods](java/07-methods) | `static` methods, `return`, overloading | ✅ |
 | 08 | [Strings](java/08-strings) | `substring`, `split`, `StringBuilder` | ✅ |
-| 09 | [Classes & Objects](java/09-oop-basics) | fields, constructors, `this`, `toString()` | 📘 |
+| 09 | [Classes & Objects](java/09-oop-basics) | fields, constructors, `this`, `toString()` | 🟡 |
 | 10 | [OOP Advanced](java/10-oop-advanced) | encapsulation, inheritance, polymorphism, interfaces | 📘 |
 | 11 | [Mini Project: Student Grade Manager](java/11-mini-project) | everything above, combined | 📘 |
 
